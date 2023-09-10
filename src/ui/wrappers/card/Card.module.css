@@ -1,0 +1,4 @@
+.layout {
+    @apply flex w-[590px] p-10 flex-col gap-5 items-center align-middle
+    rounded-3xl bg-background-light-blue;
+}

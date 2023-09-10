@@ -1,0 +1,7 @@
+.outer {
+    @apply flex py-10 min-h-screen justify-start items-center;
+}
+
+.inner {
+    @apply flex w-auto flex-col items-center gap-10;
+}
